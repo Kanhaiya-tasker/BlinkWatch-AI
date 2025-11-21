@@ -3,6 +3,7 @@
 A fast and lightweight real-time drowsiness detection system using **Python, OpenCV, Mediapipe, SciPy, NumPy**, and **EAR (Eye Aspect Ratio)**.  
 BlinkWatch AI tracks your eye movements using the webcam and alerts you when signs of sleepiness are detected.
 
+
 ## ✨ Features
 
 - 👁️ **Eye Blink Detection**  
@@ -19,7 +20,10 @@ BlinkWatch AI tracks your eye movements using the webcam and alerts you when sig
 
 - ⚡ **Smooth Performance**  
   Works live on any basic laptop webcam.
+  
 
   ## 🛠️ How to Run
-1. Install libraries: `pip install -r requirements.txt`
-2. Run the app: `python detection.py`
+1️⃣ Install libraries: `pip install -r requirements.txt`
+2️⃣ Run the app: `python detection.py`
+
+ 
